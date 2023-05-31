@@ -11,8 +11,10 @@
     align-items: center;
     padding: 24px 0;
 }
-.imagem-cabeçalho {
-    width: 20%;
+.imagem-cabecalho {
+
+width: 20%;  
+
 }
 .cabecalho-list {
 
@@ -20,4 +22,14 @@
     margin: 0 16px;
     font-size: 24px;
 
+}
+.escola-imagem{
+    width: 20%;
+
+}
+.escola{
+    background-image: linear-gradient(#424E61,#4EBFE9);
+    color: white;
+   
+ 
 }
