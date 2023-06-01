@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-   
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .cabecalho{
     background-color:#424E61;
     color: #ffffff;
@@ -13,7 +15,8 @@
 }
 .imagem-cabecalho {
 
-width: 20%;  
+width: 25% ;  
+;
 
 }
 .cabecalho-list {
@@ -21,15 +24,27 @@ width: 20%;
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+  text-transform: color: red;;
+   
 
 }
 .escola-imagem{
-    width: 20%;
+    width: 19%;
 
 }
 .escola{
     background-image: linear-gradient(#424E61,#4EBFE9);
     color: white;
-   
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   padding: 25px 0;
+
  
+}
+.escola-div{
+    width: 25%;
+}
+.escola-titular{
+    padding: 24px 0;
 }
